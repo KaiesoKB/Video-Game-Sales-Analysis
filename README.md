@@ -6,7 +6,7 @@ This project examines the impact of game exclusivity versus multi-platform relea
 ## Motivation
 The release of Helldivers 2 on the Xbox and Sony's job posting for expanding PlayStation titles across multiple platforms served as the impetus for this project. Using data, I aimed to investigate whether game availability across platforms results in increased sales.
 
-## FOlder Structure
+## Folder Structure
 - `data/`: Raw and Cleaned datasets.
 - `notebooks`: Jupyter notebooks for Data Cleaning and Exploratory Data Analysis.
 - `requirements.txt`: Python libraries needed to run the notebooks.
@@ -25,6 +25,7 @@ The release of Helldivers 2 on the Xbox and Sony's job posting for expanding Pla
 
 ## Dataset
 Source: [Kaggle-Video Game Sales Analyze](https://www.kaggle.com/datasets/willianoliveiragibin/video-game-sales-analyze)
+Note: The most recent releases of video games are not included in the dataset because it covers video game sales from 1980 to 2016.
 
 ## How to run
 1. Clone the repository
