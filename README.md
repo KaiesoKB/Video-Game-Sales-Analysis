@@ -8,7 +8,7 @@ The release of Helldivers 2 on the Xbox and Sony's job posting for expanding Pla
 
 ## Folder Structure
 - `data/`: Raw and Cleaned datasets.
-- `notebooks`: Jupyter notebooks for Data Cleaning and Exploratory Data Analysis.
+- `notebooks/`: Jupyter notebooks for Data Cleaning and Exploratory Data Analysis.
 - `requirements.txt`: Python libraries needed to run the notebooks.
 - `Video_Game_Sales_Analysis_Report.ipynb`: Final report with Methodology, Analysis, Key Insights, and Conclusion.
 
